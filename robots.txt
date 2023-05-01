@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://karprisdaz.github.io/sitemap.xml
